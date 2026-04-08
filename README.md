@@ -64,7 +64,7 @@ OR use the Google Sheets link (if provided)
 
 Submission Links:
 GitHub Repository:** (Add your GitHub link here)
-Spreadsheet Link:** (Add your Google Sheets link here)
+Spreadsheet Link:https://docs.google.com/spreadsheets/d/1hcsf3U8GvhD74VEg6o0LUSwbsn8eHe4XB1vX7W50Bb8/edit?gid=525035390#gid=525035390
 
 Notes:
 This project focuses on applying fundamental data analysis concepts with clean and structured implementation.

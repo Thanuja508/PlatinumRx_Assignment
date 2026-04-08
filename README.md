@@ -63,9 +63,9 @@ Open `Ticket_Analysis.xlsx`
 OR use the Google Sheets link (if provided)
 
 Submission Links:
-GitHub Repository:https://github.com/Thanuja508/PlatinumRx_Assignment
+GitHub Repository: https://github.com/Thanuja508/PlatinumRx_Assignment
 
-Spreadsheet Link:https://docs.google.com/spreadsheets/d/1hcsf3U8GvhD74VEg6o0LUSwbsn8eHe4XB1vX7W50Bb8/edit?gid=525035390#gid=525035390
+Spreadsheet Link: https://docs.google.com/spreadsheets/d/1hcsf3U8GvhD74VEg6o0LUSwbsn8eHe4XB1vX7W50Bb8/edit?gid=525035390#gid=525035390
 
 Notes:
 This project focuses on applying fundamental data analysis concepts with clean and structured implementation.
